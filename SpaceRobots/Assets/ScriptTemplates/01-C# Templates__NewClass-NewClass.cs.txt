@@ -1,0 +1,31 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region Public Variables
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Private Variables
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Unity Delgates
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Public Functions
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Private Functions
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region CallBacks and Coroutines
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+}
